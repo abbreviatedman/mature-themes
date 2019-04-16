@@ -20,3 +20,7 @@ Another important note: the name of this assignment is:
     * Making one a flat theme is good practice, given the look's popularity.
     * Copying a theme from somewhere is not only totally fine, it's actively encouraged, _as long as you take the time to understand the code you're using._ If you see a style using a CSS rule you don't understand, skip it and see what changes. Or: look it up. Learn! Yay! Yay, learning!
 * The only rule for the layout is that it should have a table of information. Do you have to use a `<table>`? No! You _can_ use a `<table>`... or vanilla CSS, or flexbox, or grid, or boostrap, or really any solution.
+
+### Stretch Goals
+
+Coming soon!
